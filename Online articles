@@ -6,6 +6,8 @@ Some people say that JavaScript will be the future of programming ...
 https://www.quora.com/Some-people-say-that-JavaScript-will-be-the-future-of-program...
 Jul 18, 2017 - If you read Eric Elliot's series on functional programming in JavaScript, hopefully the appalling ... It might be true that javascript is the best programming language. It's the only supported language in browsers and has fast development.
 
+http://webassembly.org/
+
 WEB ASSEMBLY AND JAVASCRIPT
 What is web assembly? 
 https://youtu.be/d_yxhNGsJU8
@@ -26,9 +28,6 @@ http://2017.jsconf.eu/speakers/lin-clark-a-cartoon-intro-to-webassembly.html Web
 A cartoon intro to WebAssembly-IN PRINT
 https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/
 
-http://webassembly.org/
-
-
 WebAssembly for Native Games on the Web Mozilla Hacks – the Web ...
 https://hacks.mozilla.org/2017/07/webassembly-for-native-games-on-the-web/
 Jul 20, 2017 - WebAssembly builds on Mozilla's original asm.js specification, which was created to serve ... If your game is developed in C/C++ and it targets OpenGL ES 2 or 3, .... It is recommended that applications using WebGL are careful to optimize their ...WebAssembly Fundamentals - YouTube
@@ -42,6 +41,10 @@ Video for what is web assembly▶ 22:32
 https://www.youtube.com/watch?v=Q-4WauNGRSo
 May 13, 2017 - Uploaded by Coding Tech
 WebAssembly is a new standard “to enable near-native performance for web applications” without a plug-in by pre ...
+
+Epic Games Releases Zen Garden Demo for WebAssembly | PC ...
+https://www.pcper.com/news/.../Epic-Games-Releases-Zen-Garden-Demo-WebAssem...
+Mar 13, 2017 - Tagged: webassembly, ue4, mozilla, epic games ... At the time, Mozilla was pushing for web browsers to be the main source of games. Thanks ...
 
 Tech Talk: Web Assembly (and You!) - YouTube
 Video for what is web assembly▶ 12:09
