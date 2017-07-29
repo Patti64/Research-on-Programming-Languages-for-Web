@@ -24,6 +24,42 @@ Learn Webassemble
 https://developer.mozilla.org/en-US/docs/WebAssembly
 --------------------------
 
+http://floooh.github.io/2017/06/09/webassembly-demystified.html
+
+About 129,000 results (0.29 seconds) 
+Search Results
+WebAssembly Demystified - The Brain Dump
+floooh.github.io/2017/06/09/webassembly-demystified.html
+Jun 9, 2017 - No, WebAssembly is an intermediate format more akin to . ... WebAssembly is about as secure as Javascript since it runs in the same sandbox. ... (for instance sockets-to-WebSockets, GL-to-WebGL, OpenAL-to-WebAudio, and some more…).
+WebAssembly: Mozilla Won | Hacker News
+https://news.ycombinator.com/item?id=14458648
+Jun 2, 2017 - Not everyone writes their apps in JavaScript. That's a given ...... be wrong then. Quoting Unity https://blogs.unity3d.com/2015/06/18/webgl-webassembly-and-f.
+WebAssembly 101: A developer's first steps | Hacker News
+https://news.ycombinator.com/item?id=14495893
+Jun 7, 2017 - WASM is not a replacement for javascript, and it's not trying to be. ..... are still mostly written in javascript but that call into new webassembly/webgl ui frameworks ...
+WebAssembly for Native Games on the Web Mozilla Hacks – the Web ...
+https://hacks.mozilla.org/2017/07/webassembly-for-native-games-on-the-web/
+Jul 20, 2017 - For example, a web application might replace its JavaScript-implemented file decompression ... However, WebAssembly is not a full replacement for JavaScript. .... It is recommended that applications using WebGL are careful to optimize their ...
+WebAssembly cut Figma's load time by 3x – Figma Design
+https://blog.figma.com/webassembly-cut-figmas-load-time-by-3x-76f3f2395164
+Jun 8, 2017 - WebAssembly was just released this past March but has already generated a ... a powerful 2D WebGL rendering engine that supports very large documents. ... is basically JavaScript where you can only use numbers (no strings, objects, etc.).
+WebGL needs a Home: Flash Bit Rot – Hacker Noon
+https://hackernoon.com/webgl-needs-a-home-part-ii-bit-rot-d8c5fec0ebd4
+Jul 13, 2017 - WebGL is a JavaScript API for rendering interactive 3D and 2D graphics within any compatible web browser without the use of plug-ins. ... Imagine if someone was to write a WebAssembly + WebGL program that could read and display most ...
+JavaScript vs WebAssembly easy benchmark : javascript - Reddit
+https://www.reddit.com/r/javascript/.../javascript_vs_webassembly_easy_benchmark/
+Jun 9, 2017 - limit my search to r/javascript ... (or exclude) self posts; nsfw:yes (or nsfw:no): include (or exclude) results marked as NSFW ... All about the JavaScript programming language. ... /r/webgl · /r/threejs · /r/web_design · /r/html5 · /r/html · /r/php · /r/enhancement ... JavaScript vs WebAssembly easy benchmark (takahirox.github.io).
+WebAssembly: Mozilla Won : programming - Reddit
+https://www.reddit.com/r/programming/comments/.../webassembly_mozilla_won/
+Jun 1, 2017 - asm.js and web assembly define a subset of what JavaScript can do in a way that allows ..... Webassembly is meant to run languages that have little/no runtime. .... have support for things like memory management or access to WebGL/DOM.
+javascript - WebAssembly & OpenGL - Single context, many output (to ...
+https://stackoverflow.com/.../webassembly-opengl-single-context-many-output-to-can...
+Jul 16, 2017 - Problem is WebGL has a context limit of about 10 in Chrome(59). So having 40-100 WebGL context (Charts) is not a smart idea, also my guts tell me its a waste ...
+live wasm/javascript/java/c++ - YouTube
+Video for webassembly webGL no javascript▶ 5:13
+https://www.youtube.com/watch?v=405yudjksDA
+Jun 4, 2017 - Uploaded by Danil S
+live web versions javascript+webgl(work everywhere) https://danilw.github.io/cputests/js/opengl_basic.html ...
 WEB ASSEMBLY AND JAVASCRIPT
 What is web assembly? 
 https://youtu.be/d_yxhNGsJU8
